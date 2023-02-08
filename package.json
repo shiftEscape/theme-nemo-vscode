@@ -1,0 +1,29 @@
+{
+  "name": "theme-nemo",
+  "displayName": "ThemeNemo",
+  "description": "Just another dark theme for awesome developers!",
+  "version": "0.0.1",
+  "publisher": "AlvinJamesBellero",
+  "keywords": [
+    "themenemo",
+    "theme nemo",
+    "dark theme",
+    "dark theme for developers",
+    "awesome theme"
+  ],
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ThemeNemo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ThemeNemo-color-theme.json"
+      }
+    ]
+  }
+}
