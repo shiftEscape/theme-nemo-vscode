@@ -4,6 +4,7 @@
   "description": "Just another dark theme for awesome developers!",
   "version": "1.2.0",
   "publisher": "AlvinJamesBellero",
+  "icon": "assets/theme-nemo-icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/shiftEscape/theme-nemo-vscode"
