@@ -4,6 +4,10 @@
   "description": "Just another dark theme for awesome developers!",
   "version": "0.0.1",
   "publisher": "AlvinJamesBellero",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiftEscape/theme-nemo-vscode"
+  },
   "keywords": [
     "themenemo",
     "theme nemo",
