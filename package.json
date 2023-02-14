@@ -9,11 +9,21 @@
     "type": "git",
     "url": "https://github.com/shiftEscape/theme-nemo-vscode"
   },
+  "author": {
+    "name": "Alvin James Bellero",
+    "email": "ajames.bellero@gmail.com"
+  },
+  "homepage": "https://github.com/shiftEscape/theme-nemo-vscode/blob/master/README.md",
+  "galleryBanner": {
+    "color": "#2a0c2a",
+    "theme": "dark"
+  },
   "keywords": [
     "themenemo",
     "theme nemo",
     "dark theme",
     "dark theme for developers",
+    "developer theme",
     "awesome theme"
   ],
   "engines": {
