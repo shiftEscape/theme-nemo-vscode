@@ -356,7 +356,7 @@
         "keyword.operator.expression.keyof"
       ],
       "settings": {
-        "foreground": "#c276ff"
+        "foreground": "#454545"
       }
     },
     {
@@ -1983,6 +1983,7 @@
     "breadcrumb.activeSelectionForeground": "#ffffff",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#1e2234",
-    "debugExceptionWidget.border": "#e8e8e82e"
+    "debugExceptionWidget.border": "#e8e8e82e",
+    "importCost.smallPackageDarkColor": "#454545"
   }
 }

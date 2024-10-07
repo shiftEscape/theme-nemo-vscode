@@ -2,7 +2,7 @@
   "name": "theme-nemo",
   "displayName": "ThemeNemo",
   "description": "Just another dark theme for awesome developers!",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "publisher": "AlvinJamesBellero",
   "icon": "assets/theme-nemo-icon.png",
   "repository": {
@@ -12,6 +12,9 @@
   "author": {
     "name": "Alvin James Bellero",
     "email": "ajames.bellero@gmail.com"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/shiftEscape"
   },
   "homepage": "https://github.com/shiftEscape/theme-nemo-vscode/blob/master/README.md",
   "galleryBanner": {
