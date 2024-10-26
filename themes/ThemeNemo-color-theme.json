@@ -356,7 +356,7 @@
         "keyword.operator.expression.keyof"
       ],
       "settings": {
-        "foreground": "#454545"
+        "foreground": "#c276ff"
       }
     },
     {
